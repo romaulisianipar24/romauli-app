@@ -8,7 +8,6 @@ function App() {
         <input />
         <button>Search</button>
       </div>
-      
     </div>
   );
 }
